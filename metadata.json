@@ -1,0 +1,6 @@
+{
+  "name": "SkySprout Flutter Background Suite",
+  "description": "Full high-resolution background asset pack and Flutter integration suite for SkySprout Adventures, featuring 19 phone, tablet, panel, and button backgrounds with 9-slice tools and Dart code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

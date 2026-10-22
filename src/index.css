@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background-color: #020617;
+  color: #f8fafc;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: 'Fredoka', 'Plus Jakarta Sans', sans-serif;
+}
+
+.bg-grid-pattern {
+  background-image: radial-gradient(rgba(245, 158, 11, 0.12) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
